@@ -1,0 +1,13 @@
+package com.study04.app;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Study04ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
